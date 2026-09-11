@@ -30,7 +30,7 @@ Total: **4,289** lines of code across **20** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,119 · **Forks**: 143 · **Open issues**: 25 · **Contributors**: 2
+- **Stars**: 2,120 · **Forks**: 143 · **Open issues**: 25 · **Contributors**: 2
 
 ## Totals (cumulative)
 
@@ -56,4 +56,4 @@ Install metadata for ai-renamer lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T06:02:54Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T18:50:59Z._
